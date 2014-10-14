@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ayo Dzikir</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="shalat">Dzikir setelah Shalat</string>
+    <string name="selanjutnya">Mulai</string>
+    <string name="pagi">Dzikir pagi hari</string>
+    <string name="sore">Dzikir sore hari</string>
+    <string name="deskripsi">Aplikasi Dzikir sederhana, untuk mempermudah dalam berdzikir.</string>
+    <string name="about">About</string>
+    
+
+</resources>
